@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="system/modules/core/languages/en/default.php" source-language="en">
+    <body>
+      <trans-unit id="CTE.downloads_delete.0">
+        <source>Downloads (deletable)</source>
+        <target>Downloads (löschbar)</target>
+      </trans-unit>
+      <trans-unit id="CTE.downloads_delete.1">
+        <source>Generates multiple links to download files with the ability to delete files from user folder.</source>
+        <target>Erzeugt mehrere Links zum Download von Dateien mit der Möglichkeit diese aus dem Benutzerverzeichnis zu löschen.</target>
+      </trans-unit>
+      <trans-unit id="MSC.downloads_delete.0">
+        <source>Delete %s</source>
+        <target>%s löschen</target>
+      </trans-unit>
+      <trans-unit id="MSC.downloads_delete.1">
+        <source>Delete</source>
+        <target>Löschen</target>
+      </trans-unit>
+      <trans-unit id="MSC.downloads_delete.2">
+        <source>Are you sure you want to delete %s?</source>
+        <target>Sind Sie sicher das Sie die Datei %s löschen möchten?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
